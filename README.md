@@ -15,7 +15,7 @@ Smart Glow is an IoT-based street lights control system using NodeMCU ESP8266. I
 - **LDR**: Connect to analog pin A0 for light sensing.
 - **PIR Sensor**: Connect to digital pin D2 for human presence detection.
 - **LED**: Connect to digital pin D1 for street lighting.
-- ![Reference circuit](Reference circuit.png)
+- ![Reference circuit](SmartGlow-mini-project/Reference circuit.png)
 
 ## Software Setup
 1. **Arduino Code**: Upload the `SmartGlow.ino` file to your NodeMCU ESP8266.
